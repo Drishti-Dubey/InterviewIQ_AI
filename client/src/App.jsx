@@ -11,7 +11,7 @@ import Interview_history from './pages/Interview_history';
 import Pricing from './pages/Pricing';
 import Interview_report from './pages/Interview_report';
 
-export const ServerUrl = "http://localhost:8080";
+export const ServerUrl = "https://interviewiq-ai-zkki.onrender.com";
 
 
 
