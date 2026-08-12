@@ -1,3 +1,3 @@
 // src/config.js
 
-export const ServerUrl = "http://localhost:8080";
+export const ServerUrl = import.meta.env.VITE_SERVER_URL || "http://localhost:8080";
