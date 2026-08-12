@@ -14,7 +14,7 @@ import paymentRouter from "./routes/payment_route.js";
 
 const app=express();
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://interviewiq-ai-client-mxfh.onrender.com",
     credentials:true
 }));
 
